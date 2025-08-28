@@ -1,6 +1,7 @@
 import { Entypo, FontAwesome } from "@expo/vector-icons"; // Import icon library
 import { Tabs } from "expo-router";
 
+
 export default function RootLayout() {
   return (
     <Tabs
